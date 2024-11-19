@@ -1,0 +1,22 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "tradeshop-a037e",
+          "appId": "1:537896166337:android:7e1c882d6a2d37d44a0540",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "tradeshop-a037e",
+          "configurations": {
+            "android": "1:537896166337:android:7e1c882d6a2d37d44a0540",
+            "web": "1:537896166337:web:5e0fa22f24a2139f4a0540"
+          }
+        }
+      }
+    }
+  }
+}

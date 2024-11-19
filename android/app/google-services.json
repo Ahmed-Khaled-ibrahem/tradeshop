@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "537896166337",
+    "project_id": "tradeshop-a037e",
+    "storage_bucket": "tradeshop-a037e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537896166337:android:7e1c882d6a2d37d44a0540",
+        "android_client_info": {
+          "package_name": "com.example.tradeshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDe4Jj4blTOczSLorTNk4MrMfYoX1vFuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
